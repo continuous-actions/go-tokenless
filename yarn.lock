@@ -220,22 +220,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@modelcontextprotocol/core@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@modelcontextprotocol/core@npm:2.2.0"
+"@modelcontextprotocol/core@npm:2.3.0":
+  version: 2.3.0
+  resolution: "@modelcontextprotocol/core@npm:2.3.0"
   dependencies:
     zod: "npm:^4.2.0"
-  checksum: 10c0/215fd548dc860f5ba5f7b098cfa47393946ae7e88a2dbe25d51f58dc5172dbd8d91f28141a8b9c200a46af779687490abbfc99722dad644e965acf9713cf02f6
+  checksum: 10c0/9f7aa035efe3e69cefc7793468555793c8ce8ae2c0210ddc10aba447159fc843b1331bcfcb567c418bc75503931b9ccaa188b5f393feeddde6add86be0d8a148
   languageName: node
   linkType: hard
 
-"@modelcontextprotocol/server@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@modelcontextprotocol/server@npm:2.2.0"
+"@modelcontextprotocol/server@npm:2.3.0":
+  version: 2.3.0
+  resolution: "@modelcontextprotocol/server@npm:2.3.0"
   dependencies:
-    "@modelcontextprotocol/core": "npm:2.2.0"
+    "@modelcontextprotocol/core": "npm:2.3.0"
     zod: "npm:^4.2.0"
-  checksum: 10c0/d0cb93371321f4032e94f783ebe2ab7afab6fb5769a7e425d965b9b361f855d3227e7cc95e24f13403a95f6824fb96b54a537087ab5a511ac248d014dac71d1b
+  checksum: 10c0/53cceb20e9ce63cbd4dbd0f4c015cc665c8f6bcbbe430069cccb23dad2a781b4d2745dfcbabb8b9815b6e095cc244f8f7e41d54324cebae80e73bb4e4c1f8aa2
   languageName: node
   linkType: hard
 
@@ -763,7 +763,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "go-tokenless@workspace:."
   dependencies:
-    "@modelcontextprotocol/server": "npm:2.2.0"
+    "@modelcontextprotocol/server": "npm:2.3.0"
     "@types/node": "npm:26.6.3"
     esbuild: "npm:0.28.2"
     fast-check: "npm:4.10.2"

@@ -28,7 +28,7 @@
     "check": "tsc -p tsconfig.json && node scripts/build.mjs && vitest run"
   },
   "devDependencies": {
-    "@modelcontextprotocol/server": "2.2.0",
+    "@modelcontextprotocol/server": "2.3.0",
     "@types/node": "26.6.3",
     "esbuild": "0.28.2",
     "fast-check": "4.10.2",
